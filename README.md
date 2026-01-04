@@ -1,5 +1,5 @@
-## 👋 Hi !!
-![Yameroom](img/cyrene-cyrene-hsr(1).gif)
+## 👋 Hello World! I'm Fachrizky
+![Yameroom](img/Header.gif)
 
 Welcome to my github homepage. There are a few things you can check out here, but don't forget to try some of the cookies I've made 🍪
 
