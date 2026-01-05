@@ -1,24 +1,25 @@
 ## 👋 Hello World! I'm Fachrizky
 ![Yameroom](img/Header1.gif)
 
-Welcome to my github homepage. There are a few things you can check out here, but don't forget to try some of the cookies I've made ehe 🍪
+#### Welcome to my little digital hideout!🏠✨
+You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
+they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
-<img src="img/elysia-honkai-impact.gif" align="right" width="150" />
+<img src="img/elysia-honkai-impact.gif" align="right" width="200" />
 
-- 🗿 just a really good emoji
-- 🌱 someone with a chill life!
-- 🎶 Love listening some music!
+- 🗿 **Just a really good emoji** that perfectly represents my state of mind while waiting for my code to compile.
+- 🌱 **Someone with a chill life** who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.
+- 🎶 **Love listening to some music** because koding in silence is a crime, and my playlist is the only thing keeping the bugs away!
 
 <br clear="right" />
 
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)![Yameroom](img/elysia-honkai.gif)
 
-##### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)![Yameroom](img/elysia-honkai.gif)
+#### ✨ GitHub Stats:
+<img src="https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/elysia-honkai.gif)
 
-##### 📊 GitHub Stats:
-<img src="https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose" alt="Streak" />
-
-##### 🔥 Languages
+#### 🔥 Languages
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -28,12 +29,12 @@ Welcome to my github homepage. There are a few things you can check out here, bu
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 
-##### 🌍 Social Media
+#### 🌍 Social Media
 ![https://instagram.com/yameroom](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Yameroom](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white") ![www.linkedin.com/in/fachrizky](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 
 
-#### 🍃 Cozy Bedroom
+#### 🍃 Cozy Hideout
 
 ... . . / -.-- --- ..- / - --- -- --- .-. .-. --- .--
 
