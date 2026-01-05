@@ -11,11 +11,9 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 - 🌱 **Someone with a chill life** who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.
 - 🎶 **Love listening to some music** because koding in silence is a crime, and my playlist is the only thing keeping the bugs away!
 
-<br clear="right" />
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
-<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### ✨ GitHub Stats:
 <img src="https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/elysia-honkai.gif)
