@@ -5,7 +5,7 @@
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
-<img src="img/elysia-honkai-impact.gif" align="right" width="200" />
+<img src="img/elysia-honkai-impact.gif" align="right" width="250" />
 
 - 🗿 **Just a really good emoji** that perfectly represents my state of mind while waiting for my code to compile.
 - 🌱 **Someone with a chill life** who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.
@@ -14,19 +14,21 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 <br clear="right" />
 
 #### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)![Yameroom](img/elysia-honkai.gif)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 #### ✨ GitHub Stats:
 <img src="https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/elysia-honkai.gif)
 
 #### 🔥 Languages
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
 
 #### 🌍 Social Media
