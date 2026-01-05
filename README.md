@@ -32,7 +32,11 @@ theyâ€™re digital, calorie-free, and made with 100% organic bugs and love, ehe ğ
 
 
 ### ğŸŒ Social Media
-![https://instagram.com/yameroom](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Yameroom](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white") ![www.linkedin.com/in/fachrizky](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+<p>
+    <a href="https://instagram.com/yameroom"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/Yameroom"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/fachrizky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 
@@ -42,4 +46,6 @@ theyâ€™re digital, calorie-free, and made with 100% organic bugs and love, ehe ğ
 
 **See You Tomorrow !**
 
-![Yameroom](img/elysia-honkai-impact1.gif)
+<p align="center">
+  <img src="img/elysia-honkai-impact1.gif" width="400" />
+</p>
