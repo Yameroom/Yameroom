@@ -14,7 +14,7 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 <br clear="right" />
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
 <br>
 
 ### ✨ GitHub Stats:
