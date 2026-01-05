@@ -16,9 +16,7 @@ Welcome to my github homepage. There are a few things you can check out here, bu
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)![Yameroom](img/elysia-honkai.gif)
 
 ##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yameroom&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yameroom&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##### 🔥 Languages
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
