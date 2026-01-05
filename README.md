@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Fachrizky
 ![Yameroom](img/Header1.gif)
 
-#### Welcome to my little digital hideout!🏠✨
+### Welcome to my little digital hideout!🏠✨
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
@@ -13,13 +13,13 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 
 <br clear="right" />
 
-#### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-#### ✨ GitHub Stats:
+### ✨ GitHub Stats:
 <img src="https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/elysia-honkai.gif)
 
-#### 🔥 Languages
+### 🔥 Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -31,15 +31,15 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 </p>
 
 
-#### 🌍 Social Media
+### 🌍 Social Media
 ![https://instagram.com/yameroom](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Yameroom](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white") ![www.linkedin.com/in/fachrizky](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 
 
-#### 🍃 Cozy Hideout
+### 🍃 Cozy Hideout
 
-... . . / -.-- --- ..- / - --- -- --- .-. .-. --- .--
+**... . . / -.-- --- ..- / - --- -- --- .-. .-. --- .--**
 
-See You Tomorrow !
+**See You Tomorrow !**
 
 ![Yameroom](img/elysia-honkai-impact1.gif)
