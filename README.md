@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Fachrizky
 ![Yameroom](img/Header1.gif)
 
-### Welcome to my little digital hideout!🏠✨<p align="right"><a href="https://github.com/yameroom"><img src="https://komarev.com/ghpvc/?username=yameroom&color=ff69b4&label=Who+Need+Some🍪" /></a></p>
+### Welcome to my little digital hideout!🏠✨<p align="right"><a href="https://github.com/yameroom"><img src="https://komarev.com/ghpvc/?username=yameroom&color=ff69b4&label=PROFILE+VISIT🍪" /></a></p>
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
