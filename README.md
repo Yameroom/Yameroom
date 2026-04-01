@@ -19,7 +19,7 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 </p>
 
 ### ✨ GitHub Stats:
-<img src="https://nirzak-streak-stats.vercel.app/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/elysia-honkai.gif)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/elysia-honkai.gif)
 
 ### 🔥 Languages
 <p>
