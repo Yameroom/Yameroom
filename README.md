@@ -24,7 +24,7 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 </p>
 
 ### ✨ GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yameroom&theme=rose" alt="Streak" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/oz-yarimasu-eating.gif" width="237" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yameroom&theme=white" alt="Streak" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/oz-yarimasu-eating.gif" width="237" />
 ### 🔥 Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -58,6 +58,6 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 
 <p align="center">
    <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%A8%E3%83%AA%E3%82%B7%E3%82%A2%E3%80%81%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84&l1=e59fea&l2=c440a1&l3=9930a1&l4=69216e&bg=f8f7f8&frame=ffffff&speed=150&comment=">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A8%E3%83%AA%E3%82%B7%E3%82%A2&l1=eabd9f&l2=a79120&l3=9b5e17&l4=6e5921&speed=150">
     </a>
 </p>
