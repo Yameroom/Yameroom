@@ -5,12 +5,21 @@
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
-<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="210" hspace="30" />
-
-- original art : @Oz_yarimasu
-- 🗿 **Just a really good emoji** that perfectly represents my state of mind while waiting for my code to compile.
-- 🌱 **Someone with a chill life** who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.
-- 🎶 **Love listening to some music** because koding in silence is a crime, and my playlist is the only thing keeping the bugs away!
+<table>
+  <tr>
+    <td valign="top" width="75%">
+      <ul>
+        <li>original art : @Oz_yarimasu</li>
+        <li>🗿 <b>Just a really good emoji</b> that perfectly represents my state of mind while waiting for my code to compile.</li>
+        <li>🌱 <b>Someone with a chill life</b> who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.</li>
+        <li>🎶 <b>Love listening to some music</b> because koding in silence is a crime, and my playlist is the only thing keeping the bugs away!</li>
+      </ul>
+    </td>
+    <td valign="top" width="25%">
+      <img src="img/oz-yarimasu-hands-on-head.gif" width="210" />
+    </td>
+  </tr>
+</table>
 
 <br clear="all" />
 
