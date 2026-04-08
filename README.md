@@ -4,7 +4,7 @@
 ### Welcome to my little digital hideout!🏠✨<br>
 <p align="right"><a href="https://github.com/yameroom"><img src="https://komarev.com/ghpvc/?username=yameroom&color=FCB65E&label=Profile+Views+:)"/></a></p>
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
-they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
+they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪<br> <br>
 
 <img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="220" />
 
