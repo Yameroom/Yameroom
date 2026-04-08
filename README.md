@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Fachrizky
 ![Yameroom](img/Header3.gif)
 
-### Welcome to my little digital hideout!🏠✨<p align="right"><a href="https://github.com/yameroom"><img src="https://komarev.com/ghpvc/?username=yameroom&color=ff69b4&label=Profile+Views+:)"/></a></p>
+### Welcome to my little digital hideout!🏠✨<p align="right"><a href="https://github.com/yameroom"><img src="https://komarev.com/ghpvc/?username=yameroom&color=FCB65E&label=Profile+Views+:)"/></a></p>
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
@@ -24,8 +24,7 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 </p>
 
 ### ✨ GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yameroom&theme=rose" alt="Streak" /> ![Yameroom](img/oz-yarimasu-eating.gif)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yameroom&theme=rose" alt="Streak" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/oz-yarimasu-eating.gif" width="237" />
 ### 🔥 Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
