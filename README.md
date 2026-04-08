@@ -4,19 +4,16 @@
 ### Welcome to my little digital hideout!🏠✨<p align="right"><a href="https://github.com/yameroom"><img src="https://komarev.com/ghpvc/?username=yameroom&color=ff69b4&label=Profile+Views+:)"/></a></p>
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
+- original art : @Oz_yarimasu
 
-<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="210" />
+<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="200" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" align="right" width="30" height="210" />
+- 🗿 **Just a really good emoji** that perfectly represents my state of mind.
+- 🌱 **Someone with a chill life** it can wait until after my second cup of tea.
+- 🎶 **Love listening to some music** my playlist is the only thing keeping the bugs away!
 
-<ul>
-  <li>original art : @Oz_yarimasu</li>
-  <li>🗿 <b>Just a really good emoji</b> that perfectly represents my state of mind while waiting for my code to compile.</li>
-  <li>🌱 <b>Someone with a chill life</b> who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.</li>
-  <li>🎶 <b>Love listening to some music</b> because koding in silence is a crime, and my playlist is the only thing keeping the bugs away!</li>
-</ul>
+<br clear="right" />
 
-<br clear="all" />
 
 ### ✍️ Random Dev Quote
 <p align="left">
