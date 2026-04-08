@@ -58,6 +58,6 @@ theyâ€™re digital, calorie-free, and made with 100% organic bugs and love, ehe ð
 
 <p align="center">
    <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A8%E3%83%AA%E3%82%B7%E3%82%A2&l1=eabd9f&l2=a79120&l3=9b5e17&l4=6e5921&speed=150">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?scheme=brown&text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A8%E3%83%AA%E3%82%B7%E3%82%A2&comment=Yameroom%20/typograssy">
     </a>
 </p>
