@@ -5,11 +5,11 @@
 You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam around and check out the projects I’ve been tinkering with most of them are fueled by late-night curiosity, and way too much caffeine. But before you get lost in the repositories, don't forget to grab some of the cookies I’ve baked just for you
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 
-<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="230" />
+<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="240" />
 
 <ul>
   <li>Original art : <b>@Oz_yarimasu</b></li>
-  <li></li>
+  <br>
   <li>🗿 <b>Just a really good emoji</b> that perfectly represents my state of mind.</li>
   <li>🌱 <b>Someone with a chill life</b> it can wait until after my second cup of tea.</li>
   <li>🎶 <b>Love listening to some music</b> my playlist is the only thing keeping the bugs away!</li>
