@@ -6,7 +6,7 @@ You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam aroun
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 - original art : @Oz_yarimasu
 
-<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="250" />
+<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="210" hspace="20" />
 
 - 🗿 **Just a really good emoji** that perfectly represents my state of mind while waiting for my code to compile.
 - 🌱 **Someone with a chill life** who firmly believes that if it’s not urgent, it can wait until after my second cup of tea.
