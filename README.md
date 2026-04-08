@@ -9,7 +9,7 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 <img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="220" />
 
 <ul>
-  <li>Original art : <a href="https://instagram.com/oz_yarimazu"><b>@Oz_yarimasu</b></a></li>
+  <li>Original art : <a href="https://instagram.com/oz_yarimasu"><b>@Oz_yarimasu</b></a></li>
   <br>
   <li>🗿 <b>Just a really good emoji</b> that perfectly represents my state of mind.</li>
   <li>🌸 <b>want to be able to draw</b> Hope I can make my original character someday</li>
