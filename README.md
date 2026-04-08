@@ -7,6 +7,8 @@ they’re digital, calorie-free, and made with 100% organic bugs and love, ehe �
 
 <img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="210" />
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" align="right" width="30" height="210" />
+
 <ul>
   <li>original art : @Oz_yarimasu</li>
   <li>🗿 <b>Just a really good emoji</b> that perfectly represents my state of mind while waiting for my code to compile.</li>
