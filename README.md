@@ -6,14 +6,15 @@ You’ve stumbled upon my GitHub homepage, a cozy place. Feel free to roam aroun
 they’re digital, calorie-free, and made with 100% organic bugs and love, ehe 🍪
 - original art : @Oz_yarimasu
 
-<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="200" />
+<img src="img/oz-yarimasu-hands-on-head.gif" align="right" width="220" />
 
-- 🗿 **Just a really good emoji** that perfectly represents my state of mind.
-- 🌱 **Someone with a chill life** it can wait until after my second cup of tea.
-- 🎶 **Love listening to some music** my playlist is the only thing keeping the bugs away!
+<ul>
+  <li>🗿 <b>Just a really good emoji</b> that perfectly represents my state of mind.</li>
+  <li>🌱 <b>Someone with a chill life</b> it can wait until after my second cup of tea.</li>
+  <li>🎶 <b>Love listening to some music</b> my playlist is the only thing keeping the bugs away!</li>
+</ul>
 
-<br clear="right" />
-
+<br clear="all" />
 
 ### ✍️ Random Dev Quote
 <p align="left">
